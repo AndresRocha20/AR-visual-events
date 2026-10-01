@@ -4,7 +4,10 @@ Sitio web oficial de **Andrew Producciones** — producción audiovisual profesi
 
 ## 🌐 Demo en vivo
 
-👉 [Ver sitio publicado](https://andresrocha20.github.io/AR-visual-events/)
+👉 - 🔗 **GitHub Pages:** 
+[andresrocha20.github.io/AR-visual-events](https://andresrocha20.github.io/AR-visual-events/)
+
+👉 - 🔗 **Netlify:** [andrewproducciones123.netlify.app](https://andrewproducciones123.netlify.app)
 
 ## 📋 Descripción
 
@@ -31,13 +34,17 @@ Abre el archivo index.html en tu navegador.
 
 ## 📈 Progreso del proyecto
 
-☑ Estructura HTML básica.
+**☑** Estructura HTML básica.
 
-☑ Estilos CSS y diseño responsivo.
+**☑**  Estilos CSS y diseño responsivo.
 
-☑ Galería de eventos.
+**☑**  Galería de eventos.
 
-☑ Publicado en GitHub Pages.
+**☑**  Publicado en GitHub Pages.
+
+**☑**  Publicado en Netlify.
+
+**☑**  Logo agregado al header.
 
 □ Sección "Sobre mí".
 
@@ -60,9 +67,14 @@ Logré publicar el sitio en GitHub Pages.
 Aprendí por qué opacity: 0 ocultaba las tarjetas y cómo detectarlo con DevTools.
 
 ## 30 / septiembre / 2026
-Aprendí qué es un README y para qué sirve.
+- **Aprendí:** qué es un README y para qué sirve.
+- **Logré:** crear el README del proyecto.
+- **Aprendí:** qué es Netlify y cómo publicar un sitio automáticamente desde GitHub.
+- **Logré:** publicar la web en Netlify (`andrewproducciones123.netlify.app`).
+- **Logré:** agregar el logo al header del sitio.
+- **Aprendí:** a usar `filter: invert()` en CSS y a ajustar imágenes horizontales con `width: auto`.
 
-Logré crear el README del proyecto.
+
 
 ## 📧 Contacto
 Email: rochariveramanuel123@gmail.com
